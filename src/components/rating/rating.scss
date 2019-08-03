@@ -1,0 +1,12 @@
+@import 'helpers/common.scss';
+
+.rating-wrapper {
+  font-size: $fs-12;
+  .rating {
+    display: flex;
+    color: $green;
+    .reviews-count {
+      color: $grey4a;
+    }
+  }
+}
