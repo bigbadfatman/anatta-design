@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/anatta-design/static/css/main.0a65044d.chunk.css",
+    "main.js": "/anatta-design/static/js/main.c569b361.chunk.js",
+    "main.js.map": "/anatta-design/static/js/main.c569b361.chunk.js.map",
+    "runtime~main.js": "/anatta-design/static/js/runtime~main.63f0b310.js",
+    "runtime~main.js.map": "/anatta-design/static/js/runtime~main.63f0b310.js.map",
+    "static/js/2.9324dfd0.chunk.js": "/anatta-design/static/js/2.9324dfd0.chunk.js",
+    "static/js/2.9324dfd0.chunk.js.map": "/anatta-design/static/js/2.9324dfd0.chunk.js.map",
+    "index.html": "/anatta-design/index.html",
+    "precache-manifest.8b8633fd2880aa6bfb908fdecd83b72d.js": "/anatta-design/precache-manifest.8b8633fd2880aa6bfb908fdecd83b72d.js",
+    "service-worker.js": "/anatta-design/service-worker.js",
+    "static/css/main.0a65044d.chunk.css.map": "/anatta-design/static/css/main.0a65044d.chunk.css.map",
+    "static/media/cart-icon.svg": "/anatta-design/static/media/cart-icon.0414f220.svg",
+    "static/media/company-logo.svg": "/anatta-design/static/media/company-logo.0777fb58.svg",
+    "static/media/express-shipping-icon.svg": "/anatta-design/static/media/express-shipping-icon.0302b9dc.svg",
+    "static/media/facebook-icon.svg": "/anatta-design/static/media/facebook-icon.90ffc08c.svg",
+    "static/media/free-returns-icon.svg": "/anatta-design/static/media/free-returns-icon.07001716.svg",
+    "static/media/instagram-icon.svg": "/anatta-design/static/media/instagram-icon.448a1068.svg",
+    "static/media/magnifying-glass-icon.svg": "/anatta-design/static/media/magnifying-glass-icon.5930ae64.svg",
+    "static/media/menu-icon.svg": "/anatta-design/static/media/menu-icon.1ddf3b9c.svg",
+    "static/media/profile-icon.svg": "/anatta-design/static/media/profile-icon.e77a2316.svg"
+  }
+}
